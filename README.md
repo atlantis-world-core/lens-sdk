@@ -1,10 +1,10 @@
 ## Overview
 
-It's the base actions and hooks for interacting with Lens Protocol, wrapped with CRA and simple playground component. Web3 logic depends on ethers.js and wagmi.sh.
+It's the base actions and hooks for interacting with Lens Protocol, wrapped with CRA and simple playground component. Web3 logic is built on top of ethers.js and wagmi.sh.
 
 ## Installation
 
-1. Install NPM deps
+1. Install deps
 
     ```bash
     npm i
